@@ -1,0 +1,45 @@
+/*styles.css*/
+
+* {
+    background-color: floralwhite;
+    font-family: "Times New Roman", Arial, Verdana;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    font-style: oblique;
+}
+
+img {
+    width: 250;
+    height: auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.list {
+    font-style: oblique;
+}
+
+.main {
+    font-weight: bold;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#crazy {
+    color: red;
+    font-weight: bold;
+}
