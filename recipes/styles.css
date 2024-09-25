@@ -23,6 +23,7 @@ img {
 
 .text-center {
     text-align: center;
+    margin-bottom: 25px;
 }
 
 .list {
@@ -35,11 +36,25 @@ img {
 
 .center {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
 }
 
 #crazy {
     color: red;
     font-weight: bold;
 }
+
+.item {
+    margin: 15px 100px;
+    text-align: center;
+    background-color: moccasin;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+    border: 3px solid black;
+}
+
+.item .text {
+    background-color: moccasin;
+}
+
